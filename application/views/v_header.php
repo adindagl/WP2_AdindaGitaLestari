@@ -25,5 +25,5 @@
                 </ul>
              </nav>
             <div class="clear"></div>
-            //v_header.php//
+            
         </header>
