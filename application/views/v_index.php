@@ -1,4 +1,4 @@
-<section>
+<section //v_index.php//>
     <h1><?php echo $judul ?></h1>
     <p align='justify'>Pada pengertian codeigniter di atas
         tadi di jelaskan bahwa codeigniter menggunakan metode MVC. Apa itu 
@@ -48,5 +48,5 @@
             menjadi mudah dan pengembangan aplikasi dapat di lakukan dengan
             cepat dan terstruktur.</p>
 
-        //v_index.php//
+        
         </section>
