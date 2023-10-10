@@ -9,5 +9,6 @@ class Contoh1 extends CI_Controller
         echo "Kelas: 12.3A.05 <br>";
         echo "TTL  : Bekasi, 14 September 2003 <br>";
         echo "Hobi : Membaca dan Mendengar Musik"; 
+        //contoh 1.php//
     }
 }
