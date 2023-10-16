@@ -1,4 +1,4 @@
-<section>
+<section //v_about.php//>
     <h1><?php echo $judul ?></h1>
     <h4>Nama</h4>
     <ul type="disc">
@@ -15,7 +15,7 @@
     <ul type="none">
         <li>Cirebon</li>
     </ul>
-    
+
     <h4>Olah Raga Favorit</h4>
     <ul type="square">
         <li>Bulutangkis</li>
