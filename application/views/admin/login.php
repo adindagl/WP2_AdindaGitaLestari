@@ -11,7 +11,7 @@
 
  <title>SB Admin 2 - Login</title>
 
- <!-- Custom fonts for this template-->
+ <!-- Custom fonts for this template -->
  <link href="vendor/fontawesome-free/css/all.min.css"
 rel="stylesheet" type="text/css">
 
