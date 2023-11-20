@@ -69,6 +69,7 @@ $this->form_validation->set_rules('email', 'Alamat Email',
  //bahasa sendiri yaitu jika password dan repeat password tidak diinput sama, maka pesannya
  //'Password Tidak Sama'. jika password diisi kurang dari 3 digit, maka pesannya adalah
  //'Password Terlalu Pendek'.
+ //
 
  $this->form_validation->set_rules('password1', 'Password',
 'required|trim|min_length[3]|matches[password2]', [
