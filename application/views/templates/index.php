@@ -166,6 +166,7 @@ text-primary mt-2 float-right"> Tampilkan</i></a>
  </div>
  </div>
  <!-- end of row table-->
+ <!-- -->
 </div>
 <!-- /.container-fluid -->
 </div>
